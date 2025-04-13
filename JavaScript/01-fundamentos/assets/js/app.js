@@ -10,3 +10,5 @@ let mod = a % b;
 let pot = a ** b;
 
 console.log(sum, men, mult, div, mod, pot);
+
+let miNombre = 'Alejandro';
